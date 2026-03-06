@@ -41,6 +41,15 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[DevSquad](https://devsquad.com/hire-laravel-developers)**
 - **[Redberry](https://redberry.international/laravel-development)**
 - **[Active Logic](https://activelogic.com)**
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/c7230cf6-2e4d-4f43-bfcc-a51ce7a065e5" />
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/8a718c09-b04b-4491-8c18-4947cd573c2e" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/caf27475-a2e3-495c-b968-c86246b1ceea" />
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/d3813468-b7e6-476a-ac9b-3ec92261d58e" />
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/fd838982-ff4a-4fe0-b85f-117d52ad303d" />
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/22bd3a01-6087-4bc1-a536-0dbd2d35478a" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/ce09f177-a442-4466-aa63-d7ed55b1a730" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/e95d45dd-3cfc-43bf-9712-08bc4ee1ae54" />
+<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/c43694ec-0a7a-4989-91b8-fec6db87970e" />
 
 ## Contributing
 
